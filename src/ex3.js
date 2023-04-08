@@ -1,6 +1,6 @@
 const Pessoa_aqui = require ('./classPessoa')
 
-const pessoa = new Pessoa_aqui('testeNome', 'testeSobrenome'); 
+const pessoa = new Pessoa_aqui('Michelle ', 'Venuto'); 
 
 console.log(pessoa.nome); // testeNome 
 console.log(pessoa.sobrenome); // testeSobrenome 
